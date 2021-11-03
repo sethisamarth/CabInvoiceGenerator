@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.exe
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.deps.json
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.json
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+C:\Users\Lenovo\Desktop\CabInvoiceGenerator application\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.genruntimeconfig.cache
